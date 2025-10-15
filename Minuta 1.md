@@ -1,4 +1,4 @@
-#Acta de Reunión
+# Acta de Reunión
 
 *Fecha y hora:* 14 de octubre de 2025, 5:00 p.m.  
 *Ubicación:* Gimnasio “The One Fitness”  
