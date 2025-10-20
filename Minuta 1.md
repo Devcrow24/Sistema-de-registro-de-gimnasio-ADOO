@@ -45,5 +45,4 @@ En base a ello durante la reunión se alcanzó un acuerdo con el propietario par
 
 Se acordó realizar una segunda entrevista el *viernes 17 de octubre a las 17:00 horas* con los siguientes propósitos:
 
-- Revisar los requisitos fundamentales dentro del dominio del problema.  
-- Identificar los principales casos de uso y sus características.
+- Revisar los requisitos fundamentales dentro del dominio del problema.
