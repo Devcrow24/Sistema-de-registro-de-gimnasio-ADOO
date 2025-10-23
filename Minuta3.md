@@ -127,8 +127,7 @@ Cada caso de uso se escribirá con las siguientes especificaciones:
 
 ## **Temas pendientes para la siguiente reunión.**
 
-Se tiene contemplado seguir haciendo iteraciones en talleres de requerimientos para seguir escribiendo los demás casos de uso, además de una reunión que nos permita tener una retroalimentación/revisión del cliente sobre los casos de uso que hemos escrito. 
 ---
 
-
+Se tiene contemplado seguir haciendo iteraciones en talleres de requerimientos para seguir escribiendo los demás casos de uso, además de una reunión que nos permita tener una retroalimentación/revisión del cliente sobre los casos de uso que hemos escrito. 
 
