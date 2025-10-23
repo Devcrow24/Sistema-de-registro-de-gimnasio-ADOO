@@ -37,8 +37,6 @@ Despues de una platica profunda sobre los atributos que ocuparia nuestro sistema
     - Seguridad
     - Usabilidad
 
---
-
 **2. Casos de uso.**
 Por medio de una lluvia de ideas y contrastando en encontrar como cubrir nuestros objetivos y requisitos funcionales, determinamos que nuestro sistema tendría los siguientes casos de uso:
     - Registrar Cliente (Para cada cliente nuevo que quiera entrar al gimnasio)
@@ -52,14 +50,8 @@ Por medio de una lluvia de ideas y contrastando en encontrar como cubrir nuestro
     - Autentificar personal (Para que no cualquier usuario tenga acceso al sistema)
     - Registrar comentarios (Para cada cliente/recepcionista que quiera colocar un comentario sobre un cliente)
 
---
-
 **3. Descripción de cada caso de uso.**
-
-
---
 
 ---
 ## **Temas pendientes para la siguiente reunión.**
 ---
-
