@@ -24,7 +24,7 @@ Despues de haber obtenido los requisitos escenciales del sistema, el equipo se r
 ---
 ## **Información y acuerdos tomados**
 ---
-1. [Atributos de Calidad]
+**1. Atributos de Calidad**
 Despues de una platica profunda sobre los atributos que ocuparia nuestro sistema y que cubren los requisitos no funcionales que plantemaos, llegamos a la conclusión que estos son los atributos que necesitariamos:
     - Disponibilidad
     - Integridad
@@ -37,7 +37,9 @@ Despues de una platica profunda sobre los atributos que ocuparia nuestro sistema
     - Seguridad
     - Usabilidad
 
-2. [Casos de uso]
+--
+
+**2. Casos de uso**
 Por medio de una lluvia de ideas y contrastando en encontrar como cubrir nuestros objetivos y requisitos funcionales, determinamos que nuestro sistema tendría los siguientes casos de uso:
     - Registrar Cliente (Para cada cliente nuevo que quiera entrar al gimnasio)
     - Pagar membresia (Para cada cliente que quiera renovar su membresia)
@@ -50,11 +52,16 @@ Por medio de una lluvia de ideas y contrastando en encontrar como cubrir nuestro
     - Autentificar personal (Para que no cualquier usuario tenga acceso al sistema)
     - Registrar comentarios (Para cada cliente/recepcionista que quiera colocar un comentario sobre un cliente)
 
-3. [Descripción de cada caso de uso]
+--
 
+**3. Descripción de cada caso de uso**
+
+
+--
 
 ---
 ## **Temas pendientes para la siguiente reunión**
 ---
+
 
 
