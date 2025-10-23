@@ -21,7 +21,8 @@ Despues de haber obtenido los requisitos escenciales del sistema, el equipo se r
 2. Encontrar la mayoria de casos de uso
 3. Describir cada caso de uso escrito
 4. Priorizar los casos de uso
-5. Escribir los casos de uso
+5. Diagrama de casos de uso
+6. Escribir los casos de uso
 
 
 
@@ -92,29 +93,42 @@ Los casos de uso que fueran de alta prioridad, son los casos de uso que se prior
 - Registrar Venta - (13 pts).
 - Autentificar personal - (12 pts).
 
-**Prioridad Alta**
+**Prioridad Alta:**
 - Pagar membresia - (10 pts).
 - Buscar Cliente - (11 pts).
 
-**Prioridad Media**
+**Prioridad Media:**
 - Editar datos de usuario - (6 pts).
 - Eliminar Usuario - (6 pts).
 - Consutar registro de ventas - (8 pts).
 
-**Prioridad Baja**
+**Prioridad Baja:**
 - Genrar reportes de ventas - (5 pts).
 - Registrar comentarios - (3 pts).
 
-****
+***
 
-**5. Casos de uso escritos.**
+*** **5. Diagrama de casos de uso** ***
+El diagrama de casos de uso fue escencial para tener en cuenta como se iba a comportar nuestro sistema de manera grafica, y nos ayudó a entender que los casos de uso de "Buscar Usuario" y "Autentificar personal" iban a ser claves a la hora de utulizar otros casos de uso. 
+
 
 ***
 
+**6. Casos de uso escritos.**
+Cada caso de uso se escribirá con las siguientes especificaciones:
+- Actor primario (El actor que iniciaria el caso de uso)
+- Personas interesadas y sus intereses (Personas involucradas y el impacto que generan al utilizar el caso de uso)
+- Precondiciones (Las condiciones previas que deben tener los actores primarios para usar el caso de uso)
+- Postcondiciones (El cambio esperado que tendrá el sistema despues de haber utilizado el caso de uso)
+- Flujo basico (Los pasos basicos que trandrá el caso de uso para realizarse)
+- Flujo alternativo (Los pasos extras por si algun paso del flujo basi cambia)
 
 ---
 
 ## **Temas pendientes para la siguiente reunión.**
 
+Se tiene contemplado seguir haciendo iteraciones en talleres de requerimientos para seguir escribiendo los demás casos de uso, además de una reunión que nos permita tener una retroalimentación/revisión del cliente sobre los casos de uso que hemos escrito. 
 ---
+
+
 
