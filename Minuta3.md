@@ -1,17 +1,17 @@
-# Acta de Reunión
+# **Acta de Reunión**
 Primera, Segunda y Tercera reunión de Casos de Uso
 
-*Fecha y hora:* 19-20-21 de octubre de 2025, 10:00 p.m.  
+**Fecha y hora:** 19-20-21 de octubre de 2025, 10:00 p.m.  
 *Ubicación:* Sala de Discord
 
-*Participantes:*  
+**Participantes:**  
 Héctor Jesús Martínez Basurto, Abdiel Muñiz, Jesús Camacho.
 
-*Coordinador de la reunión:* Abdiel Muñiz
+**Coordinador de la reunión:** Abdiel Muñiz
 
 
 ---
-## Agenda de la reunión
+## **Agenda de la reunión**
 ---
 Despues de haber obtenido los requisitos escenciales del sistema, el equipo se reunio distintos dias para hablar de los casos e uso y atributos de calidad. La agenda de la reunión se dividio en las siguientes partes:
 1. Definir Atributos de calidad
@@ -22,7 +22,7 @@ Despues de haber obtenido los requisitos escenciales del sistema, el equipo se r
 
 
 ---
-## Información y acuerdos tomados
+## **Información y acuerdos tomados**
 ---
 1. [Atributos de Calidad]
 Despues de una platica profunda sobre los atributos que ocuparia nuestro sistema y que cubren los requisitos no funcionales que plantemaos, llegamos a la conclusión que estos son los atributos que necesitariamos:
@@ -54,6 +54,7 @@ Por medio de una lluvia de ideas y contrastando en encontrar como cubrir nuestro
 
 
 ---
-## Temas pendientes para la siguiente reunión
+## **Temas pendientes para la siguiente reunión**
 ---
+
 
