@@ -39,16 +39,16 @@ Despues de una platica profunda sobre los atributos que ocuparia nuestro sistema
 
 2. [Casos de uso]
 Por medio de una lluvia de ideas y contrastando en encontrar como cubrir nuestros objetivos y requisitos funcionales, determinamos que nuestro sistema tendría los siguientes casos de uso:
-    1- Registrar Cliente (Para cada cliente nuevo que quiera entrar al gimnasio)
-    2- Pagar membresia (Para cada cliente que quiera renovar su membresia)
-    3- Editar datos de usuario (Para cada cliente que requiera de el cambio de alguno de sus datos)
-    4- Registrar entrada (Para que cada cliente se autentique a la hora de ingresar al gimnasio)
-    5- Registrar venta (Para que el recepcionista no pierda registro de las ventas extras que realiza)
-    6- Eliminar Usuario (Para cada cliente que no quiere renovar su membresia)
-    7- Consultar registro de ventas (Para cada recepcionista que quiere revisar el historial de las ventas)
-    8- Generar reportes de ventas (Para cada recepcionista que quiere un reporte de las ventas del dia)
-    9- Autentificar personal (Para que no cualquier usuario tenga acceso al sistema)
-    10- Registrar comentarios (Para cada cliente/recepcionista que quiera colocar un comentario sobre un cliente)
+    - Registrar Cliente (Para cada cliente nuevo que quiera entrar al gimnasio)
+    - Pagar membresia (Para cada cliente que quiera renovar su membresia)
+    - Editar datos de usuario (Para cada cliente que requiera de el cambio de alguno de sus datos)
+    - Registrar entrada (Para que cada cliente se autentique a la hora de ingresar al gimnasio)
+    - Registrar venta (Para que el recepcionista no pierda registro de las ventas extras que realiza)
+    - Eliminar Usuario (Para cada cliente que no quiere renovar su membresia)
+    - Consultar registro de ventas (Para cada recepcionista que quiere revisar el historial de las ventas)
+    - Generar reportes de ventas (Para cada recepcionista que quiere un reporte de las ventas del dia)
+    - Autentificar personal (Para que no cualquier usuario tenga acceso al sistema)
+    - Registrar comentarios (Para cada cliente/recepcionista que quiera colocar un comentario sobre un cliente)
 
 3. [Descripción de cada caso de uso]
 
