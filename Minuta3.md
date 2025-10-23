@@ -108,7 +108,7 @@ Los casos de uso que fueran de alta prioridad, son los casos de uso que se prior
 
 ***
 
-*** **5. Diagrama de casos de uso** ***
+**5. Diagrama de casos de uso**
 El diagrama de casos de uso fue escencial para tener en cuenta como se iba a comportar nuestro sistema de manera grafica, y nos ayudó a entender que los casos de uso de "Buscar Usuario" y "Autentificar personal" iban a ser claves a la hora de utulizar otros casos de uso. 
 
 
