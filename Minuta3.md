@@ -11,8 +11,11 @@ Héctor Jesús Martínez Basurto, Abdiel Muñiz, Jesús Camacho.
 
 
 ---
+
 ## **Agenda de la reunión.**
+
 ---
+
 Despues de haber obtenido los requisitos escenciales del sistema, el equipo se reunio distintos dias para hablar de los casos e uso y atributos de calidad. La agenda de la reunión se dividio en las siguientes partes:
 1. Definir Atributos de calidad
 2. Encontrar la mayoria de casos de uso
@@ -21,9 +24,14 @@ Despues de haber obtenido los requisitos escenciales del sistema, el equipo se r
 5. Escribir los casos de uso
 
 
+
+
 ---
+
 ## **Información y acuerdos tomados.**
+
 ---
+
 **1. Atributos de Calidad.**
 Despues de una platica profunda sobre los atributos que ocuparia nuestro sistema y que cubren los requisitos no funcionales que plantemaos, llegamos a la conclusión que estos son los atributos que necesitariamos:
 
@@ -38,26 +46,75 @@ Despues de una platica profunda sobre los atributos que ocuparia nuestro sistema
 - Seguridad
 - Usabilidad
 
+***
+
 **2. Casos de uso.**
 Por medio de una lluvia de ideas y contrastando en encontrar como cubrir nuestros objetivos y requisitos funcionales, determinamos que nuestro sistema tendría los siguientes casos de uso:
 
-- Registrar Cliente (Para cada cliente nuevo que quiera entrar al gimnasio)
-- Pagar membresia (Para cada cliente que quiera renovar su membresia)
-- Editar datos de usuario (Para cada cliente que requiera de el cambio de alguno de sus datos)
-- Registrar entrada (Para que cada cliente se autentique a la hora de ingresar al gimnasio)
-- Registrar venta (Para que el recepcionista no pierda registro de las ventas extras que realiza)
-- Eliminar Usuario (Para cada cliente que no quiere renovar su membresia)
-- Consultar registro de ventas (Para cada recepcionista que quiere revisar el historial de las ventas)
-- Generar reportes de ventas (Para cada recepcionista que quiere un reporte de las ventas del dia)
-- Autentificar personal (Para que no cualquier usuario tenga acceso al sistema)
-- Registrar comentarios (Para cada cliente/recepcionista que quiera colocar un comentario sobre un cliente)
+- Registrar Cliente *(Para cada cliente nuevo que quiera entrar al gimnasio)*
+- Pagar membresia *(Para cada cliente que quiera renovar su membresia)*
+- Editar datos de usuario *(Para cada cliente que requiera de el cambio de alguno de sus datos)*
+- Registrar entrada *(Para que cada cliente se autentique a la hora de ingresar al gimnasio)*
+- Registrar venta *(Para que el recepcionista no pierda registro de las ventas extras que realiza)*
+- Eliminar Usuario *(Para cada cliente que no quiere renovar su membresia)*
+- Consultar registro de ventas *(Para cada recepcionista que quiere revisar el historial de las ventas)*
+- Buscar usuario *(Para cada recepcionista que quiera hacer la busqueda de un usuario)*
+- Generar reportes de ventas *(Para cada recepcionista que quiere un reporte de las ventas del dia)*
+- Autentificar personal *(Para que no cualquier usuario tenga acceso al sistema)*
+- Registrar comentarios *(Para cada cliente/recepcionista que quiera colocar un comentario sobre un cliente)*
+
+***
 
 **3. Descripción de cada caso de uso.**
+Cada caso de uso fue descrito de manera informal, incluyendo todos los actores involucrado y las acciones que iban a convocar hacia el sistema
 
+***
+
+**4. Priorización.**
+Para cada caso de uso se tomo en cuenta una puntuación del 1 al 5 tomando en cuenta los siguientes aspectos:
+
+- Valor para el cliente: ¿Qué tan crítico es para satisfacer una necesidad principal?
+- Frecuencia de uso: ¿Qué tan seguido se ejecutará en el sistema?
+- Dependencias: ¿Otros casos de uso dependen de este para funcionar?
+
+Una vez tomado la nota, se sumaban los puntajes para cada caso de uso, finalizando con la rubrica de puntuación donde:
+
+- De 1 a 5 en puntuaje final -> Es baja prioridad
+- De 6 a 9 en puntaje final -> Es prioridad media
+- 10 y 11 en puntaje final -> Es alta prioridad
+- Mayor a 12 en puntaje final -> Es Muy alta prioridad.
+
+Los casos de uso que fueran de alta prioridad, son los casos de uso que se priorizaran y por tanto, los casos de uso que se escribiran mas a fondo primero. En este contexto, los casos de uso en orden de priorización fueron:
+
+**Prioridad Muy Alta:**
+- Registrar Usuario - (14 pts).
+- Registrar Entrada - (13 pts).
+- Registrar Venta - (13 pts).
+- Autentificar personal - (12 pts).
+
+**Prioridad Alta**
+- Pagar membresia - (10 pts).
+- Buscar Cliente - (11 pts).
+
+**Prioridad Media**
+- Editar datos de usuario - (6 pts).
+- Eliminar Usuario - (6 pts).
+- Consutar registro de ventas - (8 pts).
+
+**Prioridad Baja**
+- Genrar reportes de ventas - (5 pts).
+- Registrar comentarios - (3 pts).
+
+****
+
+**5. Casos de uso escritos.**
+
+***
 
 
 ---
+
 ## **Temas pendientes para la siguiente reunión.**
----
 
+---
 
