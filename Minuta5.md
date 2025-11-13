@@ -196,7 +196,7 @@ Exportación del registro de ventas utilizando librerías de generación de docu
 
 
 
-## 3. Autenticar Peronal
+## 3. Autenticar Personal
 
 Para el ultimo caso de uso escrito en esta reunión, se encontraron más requisitos no funcionales los cuales fueron:
 - El sistema debe bloquear la cuenta tras 3 intentos fallidos consecutivos.
